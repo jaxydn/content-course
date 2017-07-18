@@ -1,14 +1,10 @@
-# This Is My Title  
-## _This Is My Subtitle_  
-### Author Name  
-**Date Published**  
-This is what the text looks like.  
-  
-> this is quoted text  
-This is a link <https://github.com/jaxydn/content-course/wiki/_new>
-
-* a
-* b
-* c
-1. abc
-1. a b c 
+<!DOCTYPE html>
+<html>
+<head>
+<title>This is document title</title>
+</head>
+<body>
+<h1>This is a heading</h1>
+<p>Document content goes here.....</p>
+</body>
+</html>
